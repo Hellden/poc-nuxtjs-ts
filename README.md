@@ -1,10 +1,10 @@
 # POC
 
-> My stellar Nuxt.js project
+> Just one project for benchmark compile typescript and good practice project nuxt.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm run install
 

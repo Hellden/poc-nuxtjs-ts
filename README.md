@@ -1,6 +1,6 @@
 # POC
 
-> Just one project for benchmark compile typescript and good practice project nuxt.
+> Just one project for benchmark compile typescript and best practice nuxt project.
 
 ## Build Setup
 

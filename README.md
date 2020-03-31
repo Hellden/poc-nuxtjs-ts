@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+> Integrate firebase&firestore
+
 ```bash
 # install dependencies
 $ npm run install

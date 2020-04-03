@@ -1,7 +1,9 @@
 # POC
 
 ## FRONTEND
-### NUXT.JS
+
+### ANGULAR
+
 > Just one project for benchmark compile typescript and best practice nuxt project.
 
 ## Build Setup
@@ -16,6 +18,6 @@ $ npm run install
 $ npm run dev
 ```
 
-
 ## BACKEND
+
 ### EXPRESS.JS
